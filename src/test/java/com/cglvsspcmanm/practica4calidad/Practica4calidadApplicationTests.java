@@ -1,8 +1,6 @@
 package com.cglvsspcmanm.practica4calidad;
 
 import org.junit.jupiter.api.Test;
-import org.junit.Before;
-import org.junit.Assert;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import com.cglvsspcmanm.practica4calidad.clases.Coche;
