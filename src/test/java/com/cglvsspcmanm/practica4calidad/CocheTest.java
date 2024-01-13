@@ -24,7 +24,7 @@ public class CocheTest {
         coche.acelerar(50);
         cochef.acelerar(500);
         Assert.assertEquals("La velocidad después de acelerar debería ser igual a 50", 50, coche.getVelocidad());
-        //Assert.assertEquals("La velocidad después de acelerar debería ser igual a 50", 50, cochef.getVelocidad());
+        Assert.assertEquals("La velocidad después de acelerar debería ser igual a 50", 50, cochef.getVelocidad());
     }
 
     @Test
