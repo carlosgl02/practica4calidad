@@ -32,7 +32,7 @@ public class CocheTest {
         coche.acelerar(10);
         cochef.acelerar(-500);
         Assert.assertTrue("La velocidad debe ser mayor que 0 después de acelerar", coche.getVelocidad() > 0);
-        //Assert.assertTrue("La velocidad debe ser mayor que 0 después de acelerar", cochef.getVelocidad() > 0);
+        Assert.assertTrue("La velocidad debe ser mayor que 0 después de acelerar", cochef.getVelocidad() > 0);
     }
 
     @Test
