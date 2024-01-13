@@ -1,7 +1,10 @@
-package com.cglvsspcmanm.practica4calidad.clases;
+package com.cglvsspcmanm.practica4calidad;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.cglvsspcmanm.practica4calidad.clases.Coche;
+
 import org.junit.Assert;
 
 public class CocheTest {
