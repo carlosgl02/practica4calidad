@@ -1,6 +1,10 @@
-package com.cglvsspcmanm.practica4calidad.clases;
+package com.cglvsspcmanm.practica4calidad;
+
 import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.*;
+
+import com.cglvsspcmanm.practica4calidad.clases.Coche;
+
 import org.junit.Assert;
 
 public class CocheTest {
